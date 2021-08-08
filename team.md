@@ -13,7 +13,7 @@ menuorder: 6
 
 [Mario Hawat](https://twitter.com/kyraneth), Ross Jiang (NYUAD), Kainaath Ahmad Shah Mumtaz (NYUAD)
 
-## Data Curation Consulting
+## Data Management
 
 [Dalal Rahmeh](https://twitter.com/DalalRahme)
 
@@ -25,21 +25,7 @@ Graduate Students: Reem Wehbe, Ziad Farran
 
 Data curation (Fall 2015):
 
-Monica Al Kassouf
-Ghenwa Antonios
-Christina Batrouni
-Rana Bohsali
-Leen Bou Nasser Eddine
-Rachelle Dagher
-Souad El Den
-Bassam Ghantous
-Salam Jabbour
-Maya Kanaan
-Karen Khoury
-Rasha Noureddine
-Elissar Saad
-Georges Sakr
-Raghad Salah
+Monica Al Kassouf, Ghenwa Antonios, Christina Batrouni, Rana Bohsali, Leen Bou Nasser Eddine, Rachelle Dagher, Souad El Den, Bassam Ghantous, Salam Jabbour, Maya Kanaan, Karen Khoury, Rasha Noureddine, Elissar Saad, Georges Sakr, Raghad Salah
 
 Data curation (Spring 2016):
 
