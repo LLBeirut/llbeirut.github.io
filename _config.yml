@@ -1,20 +1,20 @@
 # Site wide configuration
 
 title: Site Title
-locale: en_US
+locale: en
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Linguistic Landscapes of Beirut
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: "A Mapping of Languages found in greater Beirut (Lebanon)."
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
+  twitter: DJWrisley
   linkedin: #username
   github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  orcid: 0000-0002-0355-1487
   researchgate: #username
   mendeley: #username
   google:
@@ -48,7 +48,7 @@ lowlight-color: '#000'
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
   cc-by: #yes
-  cc-by-nc: #yes
+  cc-by-nc: yes
 
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration
