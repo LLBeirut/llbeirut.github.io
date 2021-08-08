@@ -5,7 +5,9 @@ menutitle: Home
 menuorder: 1
 ---
 
- The Linguistic Landscapes of Beirut project (LLB) was a multilingual spatial humanities mapping project. Linguistic Landscape studied document and analyze how multilingualism is expressed in a written manner in public space.  The LLB project brought together some 2000 written language samples from the greater Beirut area captured in 2015/16. Some of the project's image data is mapped here. 
+ The Linguistic Landscapes of Beirut project (LLB) was a multilingual spatial humanities mapping project. Linguistic Landscape studied document and analyze how multilingualism is expressed in a written manner in public space.  The LLB project brought together some 2000 written language samples from the greater Beirut area captured in 2015/16. Some of the project's image data is mapped here.
+
+ <img src="/images/LLBaerial.png" style="zoom:50%;" />
 
 ## Updates:
 
