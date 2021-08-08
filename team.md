@@ -2,7 +2,7 @@
 layout: page
 excerpt: "The following people have been associated with the LLB project."
 menutitle: Team
-menuorder: 
+menuorder: 6
 ---
 
 ## Project lead:
