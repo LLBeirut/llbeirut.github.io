@@ -5,6 +5,8 @@ menutitle: Team
 menuorder: 6
 ---
 
+# The following people have been associated with the LLB project.
+
 ## Project lead:
 
 [David Joseph Wrisley](http://djwrisley.com)
