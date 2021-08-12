@@ -10,6 +10,6 @@ menuorder: 4
 
 <img src="/images/beirut_aggregate.png" style="zoom:50%;" />
 
-## Interactive Map of a Sample Neighborhood [Bourj Hammoud](https://en.wikipedia.org/wiki/Bourj_Hammoud)
+## Interactive Map of a Sample Neighborhood: [Bourj Hammoud](https://en.wikipedia.org/wiki/Bourj_Hammoud)
 
-<iframe src="https://llbeirut.github.io/BH-map/index.html#3/" width="100%" height="600"></iframe>
+<iframe src="https://llbeirut.github.io/BH_map/index.html#3/" width="100%" height="600"></iframe>
