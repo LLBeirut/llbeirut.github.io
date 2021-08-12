@@ -2,14 +2,14 @@
 layout: page
 excerpt: "The Dataset"
 menutitle: Data
-menuorder: 1
+menuorder: 3
 ---
 
  The Linguistic Landscapes of Beirut project (LLB) collected data in situ in 2015-16.
 
 ## The Core Dataset:
 
-The full dataset, after dedoubling and cleaning, contains some 2100 photos of languages samples taken in the greater urban area of Beirut, Lebanon. Of those photos, over 1300 were automatically geocoded. The aggregate of the points in greater Beirut are shown in the image below
+The full dataset, after dedoubling and cleaning, contains some 2100 photos of languages samples taken in the greater urban area of Beirut, Lebanon, of which most were automatically geocoded. The aggregate of the points in greater Beirut are shown in the image below
 
 <img src="/images/beirut_aggregate.png" style="zoom:50%;" />
 
