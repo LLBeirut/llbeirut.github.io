@@ -6,6 +6,7 @@ title: "Team"
 The following people have been associated with the `Linguistic Landscapes of Beirut` (LLB) project: 
 
 * David Joseph Wrisley (project lead)
+* Aysa Binte Masud (data manipulation, site design, mapping) - 2023
 * Ameni Hajji (data manipulation, project redesign, mapping) - 2022  
 * Mario Hawat (data curation, encoding) - 2015-2017
 * Dalal Rahmeh (data management)
